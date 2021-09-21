@@ -1,0 +1,10 @@
+
+
+ [2.0]
+ 1 新增支持Unity3d框架中 libslua.so 解密lua脚本
+
+
+ [1.0]
+ 1 支持Cocos框架中 libcocos2djs.so 解密js脚本
+ 2 支持Cocos框架中 libcocos2dlua.so 解密lua脚本
+ 3 支持Unity3d框架中 libil2cpp.so 解密dll、cs文件
